@@ -1,3 +1,5 @@
-import osszegzes
+# import osszegzes
+import eldontes
 
-osszegzes.elso()
+# osszegzes.elso()
+eldontes.masodik()
