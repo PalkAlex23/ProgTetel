@@ -1,0 +1,4 @@
+Szín@lábak_száma
+kék@13
+piros@4
+zöld@5
