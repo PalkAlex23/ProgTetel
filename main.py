@@ -1,11 +1,13 @@
-import osszegzes
-import szekprogramfajlbol
+# import osszegzes
+# import szekprogramfajlbol
 
 # import szekprogram
 # import szekprogramnemoop
 # import szekprogrammetodusokkal
 
-osszegzes.elso()
+import oszto
+
+# osszegzes.elso()
 # szekprogram.masodik()
 # szekprogram.labakSzama()
 # szekprogram.maxLabszin()
@@ -18,4 +20,6 @@ osszegzes.elso()
 # szekprogrammetodusokkal.megszamlalas(adatok)
 # szekprogrammetodusokkal.eldontes(adatok)
 # szekprogramnemoop.kiir()
-szekprogramfajlbol.beolvas()
+# szekprogramfajlbol.beolvas()
+
+oszto.osztokB()
