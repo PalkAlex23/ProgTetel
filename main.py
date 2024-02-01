@@ -7,7 +7,8 @@
 
 # import oszto
 
-import legkisebb
+# import legkisebb
+import megszamlalas
 
 # osszegzes.elso()
 # szekprogram.masodik()
@@ -26,4 +27,5 @@ import legkisebb
 
 # oszto.osztokB()
 
-legkisebb.kicsi()
+# legkisebb.kicsi()
+megszamlalas.megszam()
