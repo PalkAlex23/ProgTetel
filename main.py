@@ -5,7 +5,9 @@
 # import szekprogramnemoop
 # import szekprogrammetodusokkal
 
-import oszto
+# import oszto
+
+import legkisebb
 
 # osszegzes.elso()
 # szekprogram.masodik()
@@ -22,4 +24,6 @@ import oszto
 # szekprogramnemoop.kiir()
 # szekprogramfajlbol.beolvas()
 
-oszto.osztokB()
+# oszto.osztokB()
+
+legkisebb.kicsi()
